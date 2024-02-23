@@ -11,6 +11,8 @@
 <p align="left">
 <a href="https://www.facebook.com/thanhsinon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn lê minh thành" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hnahtnguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hnahtnguyen" height="30" width="40" /></a>
+<a href="https://discord.gg/thanhnlmvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thanhnlmvn" height="30" width="40" /></a>
+</p>
 </p>
 
 
