@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thành Nguyễn or you can call me Hnaht (nah~~~)</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhnlmvn&label=Profile%20views&color=0e75b6&style=flat" alt="thanhnlmvn" /> </p>
-
 - 📫 How to reach me **thanhnlmvn@gmail.com**
 
 - ⚡ Quote **Every chess master began as a beginner. And every successful coder started off as a novice.**
