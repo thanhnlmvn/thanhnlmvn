@@ -23,8 +23,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,c,nextjs,mysql" /><br>
 </div>
 
 
@@ -32,8 +32,3 @@
   <br/><br/><br/>
 </div>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=thanhnlmvn&theme=nord&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=thanhnlmvn&icon=0&color=0)](https://visitcount.itsvg.in)
