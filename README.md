@@ -20,16 +20,21 @@
 
 <br>
 <br>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
     <br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,c#,nextjs,mysql" /><br>
-</div>
+
+<br>
+<br>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thanhnlmvn&show_icons=true&theme=dark&locale=en" alt="thanhnlmvn" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnlmvn&theme=dark" alt="thanhnlmvn" /></p>
 
 
-  
-  <br/><br/><br/>
-</div>
+
 
