@@ -32,8 +32,11 @@
     <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thanhnlmvn&show_icons=true&theme=dark&locale=en" alt="thanhnlmvn" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnlmvn&theme=dark" alt="thanhnlmvn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhnlmvn&show_icons=true&theme=dark&locale=en&layout=compact" alt="thanhnlmvn" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhnlmvn&show_icons=true&theme=dark&locale=en" alt="thanhnlmvn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnlmvn&theme=dark" alt="thanhnlmvn" /></p>
 
 
 
