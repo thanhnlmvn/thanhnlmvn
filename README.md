@@ -38,7 +38,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhnlmvn&show_icons=true&theme=dark&locale=en" alt="thanhnlmvn" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhnlmvn&show_icons=true&theme=dark&locale=en&layout=compact" alt="thanhnlmvn" /></p>
 
-![snake gif](https://github.com/thanhnlmvn/thanhnlmvn/blob/output/github-contribution-grid-snake.gif)
+<br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thanhnlmvn/thanhnlmvn/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
