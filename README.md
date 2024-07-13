@@ -15,7 +15,7 @@
 <h3>🌐Socials</h3>
 <a href="https://fb.com/shnahts0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shnahts0501" height="30" width="40" /></a>
 <a href="https://instagram.com/shnahts_0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shnahts_0501" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@hnaht_0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hnaht_0501" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hnaht_0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hnaht_0501" height="30" width="40" /></a>
 </p>
 
 <br>
