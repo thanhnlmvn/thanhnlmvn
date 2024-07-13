@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=800&size=35&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There%F0%9F%91%8B!;I'm+Th%C3%A0nh+Nguy%E1%BB%85n;U+can+call+me+Hnaht+(nah~)" alt="Typing SVG" />
 </h1>
-<img align="right" alt="Coding" width="40%" border-radius="5" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="50%" border-radius="5" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <h3 align="left">📍 My profile</h3>
 Hi there I am a Front-End programmer
 
