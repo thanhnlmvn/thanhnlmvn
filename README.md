@@ -31,13 +31,15 @@
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,notion,git,github,azure,discord" />
     <br>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnlmvn&theme=dark" alt="thanhnlmvn" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhnlmvn&show_icons=true&theme=dark&locale=en" alt="thanhnlmvn" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhnlmvn&show_icons=true&theme=dark&locale=en&layout=compact" alt="thanhnlmvn" /></p>
-
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnlmvn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=thanhnlmvn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhnlmvn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 <br>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
