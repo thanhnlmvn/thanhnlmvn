@@ -29,7 +29,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,dotnet" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,notion,git,github,azure,discord" />
+    <img src="https://skillicons.dev/icons?i=vscode,notion,git,github,azure,discord,figma,gmail,ps,pr,windows" />
     <br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
