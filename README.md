@@ -26,7 +26,7 @@ Hi there I am a Front-End programmer
     <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,dotnet" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,notion,git,github,azure,discord,figma,gmail,ps,pr,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,notion,git,github,azure,discord,figma,gmail,windows" />
     <br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
