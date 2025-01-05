@@ -1,5 +1,6 @@
-<h1 align="center">
+<div><h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=800&size=35&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There%F0%9F%91%8B!;I'm+Th%C3%A0nh+Nguy%E1%BB%85n;U+can+call+me+Hnaht+(nah~)" alt="Typing SVG" />
+  </div>
 </h1>
 <img align="right" alt="Coding" width="40%" border-radius="30%" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
 <h3 align="left">📍 My profile</h3>
