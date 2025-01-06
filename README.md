@@ -6,7 +6,7 @@
   </div>
 
 <img align="right" alt="Coding" width="40%" border-radius="30%" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" style="margin-left: 1.5rem" >
-<h3 align="left">📍 My profile</h3>
+<h3 >📍 My profile</h3>
 
 <p align="left" width="40%">
   Hi there I am a Front-End programmer
