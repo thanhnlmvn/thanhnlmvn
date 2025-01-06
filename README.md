@@ -1,7 +1,8 @@
-<div><h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=800&size=35&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There%F0%9F%91%8B!;I'm+Th%C3%A0nh+Nguy%E1%BB%85n;U+can+call+me+Hnaht+(nah~)" alt="Typing SVG" />
+<div class="header" >
+  <h1 align="center">
+
   </div>
-</h1>
+
 <img align="right" alt="Coding" width="40%" border-radius="30%" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
 <h3 align="left">📍 My profile</h3>
 Hi there I am a Front-End programmer
@@ -40,14 +41,16 @@ Hi there I am a Front-End programmer
   <img width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhnlmvn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+
+<div class="footer" >
+  <div align="center">
+    <h2>🐍 My Contributions 🐍</h2>
+    <br>
   
  ![snake gif](https://github.com/thanhnlmvn/thanhnlmvn/blob/output/github-contribution-grid-snake-dark.svg)
   
   <br/><br/><br/>
+  </div>
 </div>
-
 
 
