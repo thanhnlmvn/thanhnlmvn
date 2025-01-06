@@ -1,23 +1,32 @@
 <div class="header" >
   <h1 align="center">
-
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+%F0%9F%92%BB%F0%9F%92%BB!" alt="Typing SVG" /></a>
+    <br>
+    Hi, I'm Nguyen Le Minh Thanh 👋
   </div>
 
-<img align="right" alt="Coding" width="40%" border-radius="30%" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+<img align="right" alt="Coding" width="40%" border-radius="30%" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" style="margin-left: 1.5rem" >
 <h3 align="left">📍 My profile</h3>
-Hi there I am a Front-End programmer
 
+<p align="left" width="40%">
+  Hi there I am a Front-End programmer
+  <br>
+  
 - 🌱 I’m currently learning **C#, ASP.NET CORE, HTML, CSS, JS**
 
 - ⚡ Quote **Every chess master began as a beginner. And every successful coder started off as a novice.**
   
 - 📫 How to reach me **thanhnlmvn@gmail.com**
+  
+</p>
 <h3>🌐Socials</h3>
 <a href="https://fb.com/shnahts0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shnahts0501" height="30" width="40" /></a>
 <a href="https://instagram.com/shnahts_0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shnahts_0501" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@hnaht_0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hnaht_0501" height="30" width="40" /></a>
-</p>
 
+
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -25,11 +34,11 @@ Hi there I am a Front-End programmer
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,java,py" />
     <br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,sass,tailwind,mysql,nodejs,postman,ts" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,notion,git,github,azure,discord,figma,gmail,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,notion,git,github,discord,figma,gmail,windows,ps,pr" />
     <br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
