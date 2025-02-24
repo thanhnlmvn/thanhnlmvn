@@ -12,9 +12,7 @@
   Hi there I am a Front-End programmer
   <br>
   
-- 🌱 I’m currently learning **C#, ASP.NET CORE, HTML, CSS, JS**
-
-- ⚡ Quote **Every chess master began as a beginner. And every successful coder started off as a novice.**
+- ⚡ Quote: **Every chess master began as a beginner. And every successful coder started off as a novice.**
   
 - 📫 How to reach me **thanhnlmvn@gmail.com**
   
