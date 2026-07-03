@@ -13,10 +13,8 @@
   <br>
   
 - ⚡ Quote: **Every chess master began as a beginner.
-  <br>
-  And every successful coder started off as a novice.
-  <br>
-   Just keep trying, and success will come eventually.**
+  And every <br> successful  coder started off as a novice.
+  Just keep trying , and <br> success will come eventually.**
   
 - 📫 How to reach me **thanhnlmvn@gmail.com**
   
