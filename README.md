@@ -12,7 +12,9 @@
   Hi there I am a Front-End programmer
   <br>
   
-- ⚡ Quote: **Every chess master began as a beginner. And every successful coder started off as a novice.**
+- ⚡ Quote: **Every chess master began as a beginner. And every
+  <br>
+  successful coder started off as a novice.**
   
 - 📫 How to reach me **thanhnlmvn@gmail.com**
   
@@ -23,6 +25,9 @@
 <a href="https://www.youtube.com/@hnaht_0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hnaht_0501" height="30" width="40" /></a>
 
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
