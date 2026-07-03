@@ -12,9 +12,11 @@
   Hi there I am a Front-End programmer
   <br>
   
-- ⚡ Quote: **Every chess master began as a beginner. And every
+- ⚡ Quote: **Every chess master began as a beginner.
   <br>
-  successful coder started off as a novice.**
+  And every successful coder started off as a novice.
+  <br>
+   Just keep trying, and success will come eventually.**
   
 - 📫 How to reach me **thanhnlmvn@gmail.com**
   
