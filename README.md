@@ -7,7 +7,7 @@
 </h1>
 
 <p align="left">
-<img align="right" width="40%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ6bzM1NnVqMGloZjMxZHd6M3Bwa2gxN281enFiaThwMzkzbTRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZaQiaL422X9HvWM5vo/giphy.gif">
+<img align="right" width="40%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNtOGw4NGEweWkxZzFoMmRkOHd3Z2NiODZ1NW44OTFhaTVzMzI0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bgu2GvmWzB7msNmevT/giphy.gif">
 
 ### 📍 My Profile
 
@@ -23,20 +23,15 @@ Hi there I am a Front-End programmer
 - 📫 How to reach me: thanhnlmvn.work@gmail.com
 
 - ![](https://komarev.com/ghpvc/?username=thanhnlmvn)
-</p>
 
-
-<h3>🌐Socials</h3>
+### 🌐 Socials
 <a href="https://fb.com/shnahts0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shnahts0501" height="30" width="40" /></a>
 <a href="https://instagram.com/shnahts_0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shnahts_0501" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@hnaht_0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hnaht_0501" height="30" width="40" /></a>
+  
+</p>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
+<br clear="both"/>
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
