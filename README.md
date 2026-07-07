@@ -7,28 +7,26 @@
 </h1>
 
 <p align="left">
-<img align="right" width="40%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNtOGw4NGEweWkxZzFoMmRkOHd3Z2NiODZ1NW44OTFhaTVzMzI0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bgu2GvmWzB7msNmevT/giphy.gif">
+<img align="right" width="40%"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRvbXdhcWI4bjdjbGl0NDd4MmF1OTZkZDNoN2kwd3dmY2RtcGg3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5IWUD4e16wgV0qHOY0/giphy.gif">
 
 ### 📍 My Profile
+![](https://komarev.com/ghpvc/?username=thanhnlmvn)
 
 
 Hi there I am a Front-End programmer
 
-- ⚡My Quote:
-  **Every chess master began as a beginner.
-  And every successful
-  coder started off as a novice.
-  Just keep trying, and success will come eventually.**
 
-- 📫 How to reach me: thanhnlmvn.work@gmail.com
-
-- ![](https://komarev.com/ghpvc/?username=thanhnlmvn)
 
 ### 🌐 Socials
 <a href="https://fb.com/shnahts0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shnahts0501" height="30" width="40" /></a>
 <a href="https://instagram.com/shnahts_0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shnahts_0501" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@hnaht_0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hnaht_0501" height="30" width="40" /></a>
-  
+
+### 📫 How to reach me
+- 🖼 Portfolio: View my portfolio
+- 📮 Email: thanhnlmvn.work@gmail.com
+- 📋 Resume: View my resume
+
 </p>
 
 <br clear="both"/>
